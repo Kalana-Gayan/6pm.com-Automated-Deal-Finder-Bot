@@ -35,7 +35,7 @@ This project was built as a portfolio item to demonstrate a full-stack, data-dri
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/6pm_product_scrapper.git](https://github.com/yourusername/6pm_product_scrapper.git)
+    git clone https://github.com/Kalana-Gayan/6pm.com-Automated-Deal-Finder-Bot.git
     cd 6pm_product_scrapper
     ```
 
