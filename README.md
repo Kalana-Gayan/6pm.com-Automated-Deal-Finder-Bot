@@ -9,12 +9,6 @@ This project was built as a portfolio item to demonstrate a full-stack, data-dri
 
 ## 🎥 Video Demonstration
 
-**(Here is where you add your video!)**
-
-To add your video, replace the `VIDEO_URL_HERE` with a link to your video (e.g., a YouTube or Loom link) and the `YOUR_THUMBNAIL_IMAGE_URL_HERE` with a link to a thumbnail.
-
-[![Watch the Demo Video](<img width="1536" height="1024" alt="Copilot_20251029_211752" src="https://github.com/user-attachments/assets/a2c03bde-b5db-43b5-a15e-cb7a716e0fd7" />)](https://youtu.be/A4aOutYn8Ac)
-
 
 > **[Click Here to Watch the Full Video Demo](https://youtu.be/A4aOutYn8Ac)**
 
